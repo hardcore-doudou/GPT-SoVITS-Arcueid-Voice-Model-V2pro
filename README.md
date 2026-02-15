@@ -1,4 +1,3 @@
-# GPT-SoVITS-Arcueid-Voice-Model-V2pro
 # Arcueid Brunestud (Tsukihime) - GPT-SoVITS Voice Model
 
 ## 📝 项目介绍 / Introduction
